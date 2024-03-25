@@ -1,0 +1,60 @@
+
+
+.main{ 
+  width: 400px; 
+  padding: 25px; 
+  background-color: goldenrod;
+  /* border: 2px solid teal;   */
+  border-radius: 15px;
+  margin: 100px auto; 
+  text-align: center;
+} 
+.main input{ 
+  width: 200px; 
+  height: 30px; 
+  text-align: center; 
+  border-radius: 10px; 
+  border: none; 
+  outline: none;
+
+}
+.submit_1,
+.submit_2,
+.submit_3,
+.submit_4{ 
+  margin-top: 20px; 
+  background-color: red; 
+  border: none; 
+  padding: 8px 15px; 
+  border-radius: 10px; 
+  color: #fff; 
+  cursor: pointer;
+} 
+.submit_2{ 
+  display: none;
+}
+.player_2{ 
+  display: none;
+} 
+.chance{ 
+  display: none; 
+  font-size: 30px; 
+  color: #fff; 
+  
+} 
+.player_3{ 
+  display: none;
+} 
+.submit_3{ 
+  display: none;
+} 
+.player_4{ 
+  display: none;
+} 
+.submit_4{ 
+  display: none;
+} 
+.winner{ 
+  font-size: 40px; 
+  color: #fff;
+} 
